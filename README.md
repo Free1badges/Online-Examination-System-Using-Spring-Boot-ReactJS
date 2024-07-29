@@ -1,3 +1,13 @@
+Languages Used: 
+
+1. Spring Boot
+   
+2. React
+   
+3. MysqlWorkBench
+   
+Working:
+
 1)Run The Backend Spring Boot In Vscode. 
 Open And Run ExamPortalBackendApplication.java The Program After Successfully Running. 
 
